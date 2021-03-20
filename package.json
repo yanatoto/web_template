@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/yanatoto/web_template#readme",
   "devDependencies": {
+    "eslint": "^7.22.0",
     "prettier": "^2.2.1"
   }
 }
