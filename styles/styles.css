@@ -32,7 +32,7 @@ h1 {
   align-items: stretch;
 }
 
-.main_block div {
+.main_block article {
   width: 32%;
   background-color: rgb(212, 202, 162);
   margin: 10px;
